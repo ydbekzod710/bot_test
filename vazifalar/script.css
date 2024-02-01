@@ -1,0 +1,15 @@
+.box1 {
+    height: 2000px;
+}
+.n1 {
+    color: white;
+    text-align: center;
+    font-size: 200px;
+    position: relative;
+    top: 500px;
+}
+.bo{
+    width: 5000px;
+    background-color: black;
+    height: 100px;
+}
